@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787786895850",
+    "project_id": "pet-diary-1925c",
+    "storage_bucket": "pet-diary-1925c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787786895850:android:5a7baed638dc7a4c62e293",
+        "android_client_info": {
+          "package_name": "com.coco_mocha.pet_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787786895850-smapva3s2plno7p9kv2lqa028430solf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coco_mocha.pet_diary",
+            "certificate_hash": "4d5ad2ae6a5a7a5a8112f0c25d0dbe156f60078a"
+          }
+        },
+        {
+          "client_id": "787786895850-1rhvb5l29fk30f67hf3h489gfvuoolmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFRiVC4OzX7t4GESsHijPVuji_83BsT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787786895850-1rhvb5l29fk30f67hf3h489gfvuoolmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
